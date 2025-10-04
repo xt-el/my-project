@@ -1,1 +1,10 @@
-
+{
+  "loader_version": "1.0.0",
+  "modules": [
+    { "name": "config", "path": "modules/config.lua", "version": "1.0.0", "sha256": "" },
+    { "name": "npc_manager", "path": "modules/npc_manager.lua", "version": "1.0.0", "sha256": "" },
+    { "name": "highlight", "path": "modules/highlight.lua", "version": "1.0.0", "sha256": "" },
+    { "name": "ui", "path": "modules/ui.lua", "version": "1.0.0", "sha256": "" },
+    { "name": "actions", "path": "modules/actions.lua", "version": "1.0.0", "sha256": "" }
+  ]
+}
